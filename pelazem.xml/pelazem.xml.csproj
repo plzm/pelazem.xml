@@ -16,7 +16,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="pelazem.util" Version="3.0.2" />
+    <PackageReference Include="pelazem.util" Version="7.0.0" />
   </ItemGroup>
 
 </Project>
